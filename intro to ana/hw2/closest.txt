@@ -1,0 +1,1 @@
+The closest pair of points is 6.105735008575935e-07
